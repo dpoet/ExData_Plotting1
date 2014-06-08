@@ -105,7 +105,7 @@ kPARAM_MARGIN  <- c(5, 5, 3, 2)
 kTARGET_VARIABLE <- "Global_active_power"
 kTITLE <- "Global Active Power"
 kXLABEL <- "Global Active Power (kilowatts)"  
-kFILL_COLOR <- "orangered3" # Note that 'orangered3' is the color in the original Plot 1, not 'red'.
+kFILL_COLOR <- "red" 
 
 
 ## 2) Load target data

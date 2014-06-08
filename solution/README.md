@@ -1,6 +1,7 @@
 ## [Exploratory Data Analysis - JHU](https://class.coursera.org/exdata-003), via [Coursera](https://www.coursera.org/)  
 ## My solution to Course Project 1
 
+
 ### Introduction  
 **Welcome!**  
 In this page you'll find my solution for the first assignment in this
