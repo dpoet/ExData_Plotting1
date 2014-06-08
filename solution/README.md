@@ -2,7 +2,7 @@
 ## My solution to Course Project 1
 
 ### Introduction  
-Welcome!  
+**Welcome!**  
 In this page you'll find my solution for the first assignment in this
 course: *Course Project 1*.  
 
