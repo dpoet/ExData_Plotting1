@@ -1,3 +1,8 @@
+## Update (2014-JUNE-08)
+### My final solution
+All files are in the [`solution`](https://github.com/dpoet/ExData_Plotting1/tree/master/solution) folder. Thank you!
+***
+
 ## Introduction
 
 This assignment uses data from
