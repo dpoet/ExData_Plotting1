@@ -30,7 +30,7 @@
 #
 ## GitHub repository forked from: [https://github.com/rdpeng/ExData_Plotting1]
 #
-## URL for this file (2014-JUNE-08) : 
+## URL for this file (2014-JUNE-08): 
 ## [https://github.com/dpoet/ExData_Plotting1/blob/master/solution/plot1.R] 
 #
 ################################################################################

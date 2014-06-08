@@ -28,9 +28,9 @@
 ##  - The dataset has 2,075,259 observations and 9 variables
 ##  - Missing values are coded as the following character: '?'
 #
-## GitHub repoSITORY forked from: [https://github.com/rdpeng/ExData_Plotting1]
+## GitHub repository forked from: [https://github.com/rdpeng/ExData_Plotting1]
 #
-## URL for this file (2014-JUNE-08) : 
+## URL for this file (2014-JUNE-08): 
 ## [https://github.com/dpoet/ExData_Plotting1/blob/master/solution/plot4.R]
 #
 ################################################################################

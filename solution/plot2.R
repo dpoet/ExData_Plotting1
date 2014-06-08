@@ -28,9 +28,9 @@
 ##  - The dataset has 2,075,259 observations and 9 variables
 ##  - Missing values are coded as the following character: '?'
 #
-## GitHub repoSITORY forked from: [https://github.com/rdpeng/ExData_Plotting1]
+## GitHub repository forked from: [https://github.com/rdpeng/ExData_Plotting1]
 #
-## URL for this file (2014-JUNE-08) : 
+## URL for this file (2014-JUNE-08): 
 ## [https://github.com/dpoet/ExData_Plotting1/blob/master/solution/plot2.R]
 #
 ################################################################################
@@ -123,7 +123,7 @@ png(filename = kFILE_NAME)
 ## Adjusts the margins.
 par(mar = kPARAM_MARGIN) 
 
-## Creates plot and add customized x axis.
+## Creates plot.
 par(cex.axis = 1.2, cex.lab = 1.2)
 plot(x = data$datetime, y = data$Global_active_power, type = "l", ylab = kYLABEL)
 
